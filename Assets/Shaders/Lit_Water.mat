@@ -98,11 +98,11 @@ Material:
     - _ClearCoatSmoothness: 0
     - _Cull: 2
     - _Cutoff: 0.5
-    - _Depth_Distance: 1.02
-    - _Depth_Strength: 1.02
+    - _Depth_Distance: 1.12
+    - _Depth_Strength: 7.4
     - _DetailAlbedoMapScale: 1
     - _DetailNormalMapScale: 1
-    - _DisplaceStrength: 0.1
+    - _DisplaceStrength: 0.07
     - _DstBlend: 0
     - _DstBlendAlpha: 0
     - _EnvironmentReflections: 1
@@ -110,15 +110,15 @@ Material:
     - _Glossiness: 0
     - _GlossyReflections: 0
     - _Metallic: 0
-    - _NormalStregth: 1
-    - _NormalTilling: 4.15
+    - _NormalStregth: 0.373
+    - _NormalTilling: 4
     - _OcclusionStrength: 1
-    - _PanSpeed: 0.22
+    - _PanSpeed: 1
     - _Parallax: 0.005
     - _QueueControl: 0
     - _QueueOffset: 0
     - _ReceiveShadows: 1
-    - _Refract_strength: 0.12
+    - _Refract_strength: 6.8
     - _Smoothness: 0.5
     - _SmoothnessTextureChannel: 0
     - _SpecularHighlights: 1
