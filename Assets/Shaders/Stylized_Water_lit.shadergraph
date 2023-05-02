@@ -5265,10 +5265,10 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": -584.9999389648438,
-            "y": -1225.9998779296875,
-            "width": 165.99993896484376,
-            "height": 117.9998779296875
+            "x": -583.9999389648438,
+            "y": -1227.0,
+            "width": 165.99996948242188,
+            "height": 118.0
         }
     },
     "m_Slots": [
@@ -5819,10 +5819,10 @@
     "m_Guid": {
         "m_GuidSerialized": "33389bbf-9ca1-4ed5-ad11-6420f691e6fb"
     },
-    "m_Name": "NormalStregth",
+    "m_Name": "NormalStrength",
     "m_DefaultRefNameVersion": 1,
-    "m_RefNameGeneratedByDisplayName": "NormalStregth",
-    "m_DefaultReferenceName": "_NormalStregth",
+    "m_RefNameGeneratedByDisplayName": "NormalStrength",
+    "m_DefaultReferenceName": "_NormalStrength",
     "m_OverrideReferenceName": "",
     "m_GeneratePropertyBlock": true,
     "m_UseCustomSlotLabel": false,
@@ -7103,7 +7103,7 @@
     "m_Type": "UnityEditor.ShaderGraph.Vector1MaterialSlot",
     "m_ObjectId": "b6ff5e5bea604f6d82824dbbe2d3fa0a",
     "m_Id": 0,
-    "m_DisplayName": "NormalStregth",
+    "m_DisplayName": "NormalStrength",
     "m_SlotType": 1,
     "m_Hidden": false,
     "m_ShaderOutputName": "Out",
