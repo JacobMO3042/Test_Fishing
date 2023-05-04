@@ -20,7 +20,7 @@ public class ReturnToObject : MonoBehaviour
 
     void ReelIn()
     {
-        transform.position = Vector3.MoveTowards(transform.position, target.position, speed * Time.deltaTime);
+        transform.position = Vector3.MoveTowards(transform.position, target.position, speed * Time.deltaTime); // bring object towards selected object
     }
 
     // Start is called before the first frame update
@@ -32,13 +32,7 @@ public class ReturnToObject : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-    if (IsReelActive)
-        {
-            ReelIn();
-            Debug.Log("Swag");
-        }
 
-        
 
 }
 
