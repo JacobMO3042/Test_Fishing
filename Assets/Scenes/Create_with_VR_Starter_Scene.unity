@@ -1172,7 +1172,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   target: {fileID: 65745872}
   speed: 5
-  Active: 0
+  IsReelActive: 0
 --- !u!1 &474225658
 GameObject:
   m_ObjectHideFlags: 0
@@ -2712,7 +2712,7 @@ MonoBehaviour:
         m_CallState: 2
       - m_Target: {fileID: 356399403}
         m_TargetAssemblyTypeName: ReturnToObject, Assembly-CSharp
-        m_MethodName: ActiveReel
+        m_MethodName: Activate
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -2739,7 +2739,7 @@ MonoBehaviour:
         m_CallState: 2
       - m_Target: {fileID: 356399403}
         m_TargetAssemblyTypeName: ReturnToObject, Assembly-CSharp
-        m_MethodName: DeactiveReel
+        m_MethodName: Deactive
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
